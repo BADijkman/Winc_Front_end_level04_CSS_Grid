@@ -41,7 +41,7 @@ p, h2{
     "h h h m m m m m m m m m"
     "h h h m m m m m m m m m"
     "h h h w w w w w w w w w"
-      "h h h f f f f f f f f f"}
+      "h h h f f f f f f f f f";
 }
 
 @media (min-width: 1500px) {
@@ -50,5 +50,5 @@ p, h2{
     "h h m m m m m m m m w w"
     "h h m m m m m m m m w w"
     "h h m m m m m m m m w w"
-      "h h f f f f f f f f w w"}
+      "h h f f f f f f f f w w";
 }
