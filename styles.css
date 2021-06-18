@@ -41,7 +41,7 @@ p, h2{
   grid-area: f;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .grid{
     grid-template-areas: 
     "h h h m m m m m m m m m"
@@ -51,7 +51,7 @@ p, h2{
   } 
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1500px) {
   .grid{
     grid-template-areas: 
     "h h m m m m m m m m w w"
