@@ -25,27 +25,23 @@ p, h2{
    ;
 }
 .gridheader{
-  padding: 5px;
   background-color: palevioletred;
   grid-area: h;
 }
 .gridmain{
-  padding: 5px;
   background-color: rgb(90, 132, 28);
   grid-area: m;
 }
 .widget-area{
-  padding: 5px;
   background-color: rgb(50, 171, 201);
   grid-area: w;
 }
 .gridfooter{
-  padding: 5px;
   background-color: rgb(21, 21, 230);
   grid-area: f;
 }
 
-@media (min-width:  768px) {
+@media (min-width: 768px) {
   .grid{
     grid-template-areas: 
     "h h h m m m m m m m m m"
@@ -55,7 +51,7 @@ p, h2{
   } 
 }
 
-@media (min-width: 1689px) {
+@media (min-width: 1024px) {
   .grid{
     grid-template-areas: 
     "h h m m m m m m m m w w"
