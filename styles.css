@@ -13,7 +13,7 @@ p, h2{
   color: white;
   border: 3px solid rgb(252, 251, 251);
  
-  grid-template-columns: repeat( 12, 1fr);
+  grid-template-columns: repeat(12, 1fr);
   grid-template-rows:  10% 60% 20% 10%;
   /* grid-template: 30px auto 200px 30px / 1fr; */
   grid-gap: 3px;
